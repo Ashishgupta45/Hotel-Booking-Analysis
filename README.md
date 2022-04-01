@@ -78,7 +78,7 @@ then that of resort hotel. If we checked on assign room type then H, G and F hav
 negligible adr compared to others. If we check month vise adr then August 2017 has highest adr and the
 lowest is November 2015.
 
-##Conclusion: 
+## Conclusion: 
 Even percentage of total booking more in city hotel as compared to resort hotel but the
 number of cancellation in city hotels maximum compared to resort hotel. Overall cancelation rate is 27%.
 Approximately 20% of the total booking is getting cancelled in city hotel. Hence the percentage of
