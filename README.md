@@ -1,8 +1,7 @@
-# Hotel-Booking-Analysis
-
 # Problem Statement:-
 Word "HOTEL" as we are familiar with this word and come across with this word very often.What does HOTEL mean? a hotel is a building where travelers can pay for lodging and meals and other service. The hospitality industry is one of the blooming industry all over the world. Hotel operations vary in size, function, complexity, and cost. Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury amenities, full-service accommodations, an on-site restaurant, and the highest level of personalized service Small, lower-priced hotels may offer only the most basic guest services and facilities. so in this project we are going to look into the given data and try to analyze it. here we have data for two types of hotels city hotel and resort hotel from the different countries along the guest list and the average daily price.
 
+# Project Summary
 We have been given the data of hotel industry.our first aim to understand the hotel industry "how it
 works actually?" and basic terminologies like market segments, distribution channels. In categories, the
 term “TA” means “Travel Agents” and “TO” means “Tour Operators” etc.Our second aim is to identify
